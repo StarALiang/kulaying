@@ -12,7 +12,7 @@
     "express-session": "^1.16.1",
     "less-loader": "^5.0.0",
     "mint-ui": "^2.2.9",
-    "node-sass": "^4.12.0",
+    "node-sass": "^7.0.0",
     "sass-loader": "^7.1.0",
     "scss": "^0.2.4",
     "swiper": "^4.5.0",
